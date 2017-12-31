@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: "hanteng.github.io 開展個人學習網絡"
-description: "在更遼闊的（全球資訊網）世界感覺更自在地體驗及學習"
+title: "chenweihshan.github.io 开展个人学习网站"
+description: "在更远阔世界感觉自由自在的体验和学习"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: zh_TW # 本地化翻譯
+locale: zh_TW # 
 url:
 feed:
   path: atom.xml
@@ -32,7 +32,7 @@ owner:
   google:
     ad-client:
     ad-slot:
-  bio: "廖汉腾，副教授（网络与新媒体专业） 中山大学南方学院 新媒体研究中心代理主任 ，开设课程：《网络新媒体技术与协作》、《信息可视化设计》、《大数据统计》、《Python语言》、《网页设计与制作》、《网站运营与管理实践》等。"
+  bio: "陈伟珊，中山大学南方学院，网络与新媒体专业的大二学生，学习网络与新媒体专业的有关课程"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
