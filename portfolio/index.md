@@ -6,7 +6,7 @@ modified:
 excerpt: "网页设计小试牛刀"
 tags: []
 image: 
-  feature: earth.gif
+  feature: 
   teaser:
 ---
 
