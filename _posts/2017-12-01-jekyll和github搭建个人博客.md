@@ -1,12 +1,14 @@
 ---
 layout: article
 title:  "jekyll和github搭建个人博客"
-date:   2017-12-15 
+date:   2017-12-15 08:45:50 +0800
 categories: notes_tech Jekyll
 image:
   teaser: Jekyll_skinny_bones.jpg
   feature: Jekyll_skinny_bones.jpg
 ---
+{% include toc.html %}
+
 这篇文章介绍了如何安装jekyll来搭建个人博客，希望对大家有所帮助
 
 ## jekyll+Github搭建个人博客
