@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "chenweihshan.github.io 开展个人学习网站"
+title: "闲于竹汐个人博客"
 description: "在更远阔世界感觉自由自在的体验和学习"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
@@ -26,9 +26,9 @@ gems:
 
 # Site owner
 owner:
-  name: hanteng
-  email: hantengliao@qq.com
-  twitter: hanteng
+  name: weishan
+  email: 3111594864@qq.com
+  twitter: weishan
   google:
     ad-client:
     ad-slot:
