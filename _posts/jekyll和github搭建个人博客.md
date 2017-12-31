@@ -1,8 +1,13 @@
 ---
-layout: default
-title:  "jekyll+Github搭建个人博客"
-categories: posts Web
+layout: article
+title:  "jekyll和github搭建个人博客"
+date:   2017-12-15 
+categories: notes_tech Jekyll
+image:
+  teaser: Jekyll_skinny_bones.jpg
+  feature: Jekyll_skinny_bones.jpg
 ---
+这篇文章介绍了如何安装jekyll来搭建个人博客，希望对大家有所帮助
 
 ## jekyll+Github搭建个人博客
 ### 起因
@@ -31,8 +36,11 @@ gem "github-pages", group: :jekyll_plugins
 gem "github-pages", group: :jekyll_plugins
 * #### 第五步 创建个人博客
 删除你xxx.github.io目录下的Gemfile和Gemfile.lock文件，然后使用终端在该目录下运行jekyll new ./。成功后，直接运行jekyll serve就可以在本地预览效果了。在浏览器输入http://127.0.0.1:4000/，可以查看效果。
-*　#### 第六步 添加文章
-> x.github.io/_posts目录下按照年-月-日-名称.markdown的文件名格式创建新文章。文章内容可以参考自带的文章示例。
-*　### 最后一步 访问个人博客
+* #### 第六步 添加文章
+x.github.io/_posts
+目录下按照年-月-日-名称.markdown的文件名格式创建新文章。文章内容可以参考自带的文章示例。
+* ####  最后一步 访问个人博客
 最后我们把xxx.github.io目录下的内容都push到Github上，就可以访问你的个人博客啦。地址就是xxx.github.io。
+
+
 
