@@ -4,8 +4,8 @@ title:  "jekyll和github搭建个人博客"
 date:   2017-12-15 08:45:50 +0800
 categories: notes_tech Jekyll
 image:
-  teaser: jeykll.jpg
-  feature: jeykll.jpg
+  teaser: jekyll.jpg
+  feature: jekyll.jpg
 ---
 {% include toc.html %}
 
