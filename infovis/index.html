@@ -1,19 +1,180 @@
----
-layout: archive
-title: "信息可视化作品"
-date: 2017-12-10
-modified:
-excerpt: "信息可视化小试牛刀"
-tags: []
-image: 
-  feature: 
-  teaser:
----
+<!DOCTYPE html>
+<html lang="en" >
 
-在此展示关于信息可视化课程相关的作品
+<head>
+  <meta charset="UTF-8">
+  <title>personal blog</title>
+  <link href="https://fonts.googleapis.com/css?family=Archivo+Black|Asul|Cardo|Chivo|Eczar|Pathway+Gothic+One|Roboto+Mono|Rubik|Tenor+Sans|Work+Sans" rel="stylesheet">
+  
+  <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'>
 
-<div class="tiles">
-{% for post in site.categories.SDG %}
-  {% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles 把所有categories 有 SDG 的列出来-->
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+  <body>
+	<nav id="sidenav" class="side_nav">
+		<ul>
+			<li>
+				<a href="#"><i class="fa fa-facebook-official" aria-hidden="true">
+			</i></a>
+			</li>
+			<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+			<li><a href="#"><i class="fa fa-codepen" aria-hidden="true"></i></a></li>
+			<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+			<li><a href="#" class="close"><i class="fa fa-times" aria-hidden="true"></i></a></li>
+		</ul>
+		<form>
+			<input type="text" id="search" placeholder="Search">
+			<button><i class="fa fa-search" aria-hidden="true"></i></button>
+		</form>
+		<ul>
+			<li><a href="">Home</a></li>
+			<li><a href="">Category</a></li>
+			<li><a onclick="window.location.href='Contact.html'">Contact</a></li>
+		</ul>
+		<footer>
+			2017 - GNU
+		</footer>
+	</nav>
+	<header>
+	<nav>
+  <ul>
+    <li><a href="#">主页</a></li>
+    <li><a href="#">作品集</a></li>
+    <li><a href="#">学习资料</a></li>
+	<li><a href="#">联系我</a></li>
+  </ul>
+  </nav>
+  <main>
+    <h1>Hello Personal blog!</h1>
+  </main>
+  
+	<div class="header_content">
+			<a href="" id="menu">
+				<i class="fa fa-bars" aria-hidden="true"></i>
+			</a>
+		</div>
+	</header>
+	
+<div class="content">
+  <div class="leftcontent">
+    <div class="innerblock">
+      <div class="bloghighlight">
+        <h1>学习笔记</h1></br>
+        <article>
+          <div class="article-title">
+            <h1>用jekyll和Github搭建个人博客</h1>
+          </div>
+          <div class="article-details">
+            <h3 class="date">December 15, 2017</h3>
+          </div>
+          <div class="article-summary">
+            <p>jekyll是一个纯前端的框架，无需使用数据库，即是不用涉及到后端，就可以灵活的生成动态的html页面。Githbu原生支持jekyll,不需要在本地bulid，直接把jekyll项目push到github,就可以自动的生成html......</br><a href="https://chenweishan.github.io/article/" class="readmore">continue reading</a></p>
+          </div>
+        </article>
+                <article>
+          <div class="article-title">
+            <h1>Colors are important</h1>
+          </div>
+          <div class="article-details">
+            <h3 class="date">August 15, 2013</h3>
+          </div>
+          <div class="article-summary">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium ex aperiam quam explicabo labore unde quasi soluta voluptatibus vel praesentium tenetur iure quo dolor a consequatur tempore ratione nostrum? Placeat...</br> <a href="#" class="readmore">continue reading</a></p>
+          </div>
+        </article>
+                <article>
+          <div class="article-title">
+            <h1>Layouts are also fundamental to webdesign.</h1>
+          </div>
+          <div class="article-details">
+            <h3 class="date">August 15, 2013</h3>
+          </div>
+          <div class="article-summary">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium ex aperiam quam explicabo labore unde quasi soluta voluptatibus vel praesentium tenetur iure quo dolor a consequatur tempore ratione nostrum? Placeat... </br><a href="#" class="readmore">continue reading</a></p></br></br>
+          </div>
+        </article>
+        <div class="link">
+          <center><button>Read More</button>
+		  </br>
+		  </br>
+		  </br>
+        </div>
+      </div>
+    </div>
+  </div>
+    <div class="rightcontent">
+    <div class="innerblock">
+        <div class="highlight">
+          <h1>最近项目</h1>
+	<section>
+		<article>
+			<a onclick="window.location.href='term_project_css.html'"><button>Read more</button></a>
+			<h2>Tableau 学习笔记</h2>
+			<p class="author">By Odile deray</p>
+			<p>
+				<span>Febuary 7, 2017</span>
+				<span class="comment">0 comments</span>
+			</p>
+		</article>
+		<article>
+			<a onclick="window.location.href='term_project_css.html'"><button>Read more</button></a>
+			<h2>响应式web设计 笔记</h2>
+			<p class="author">By Odile deray</p>
+			<p>
+				<span>Febuary 7, 2017</span>
+				<span class="comment">0 comments</span>
+			</p>
+		</article>
+		<article>
+			<a onclick="window.location.href='term_project_css.html'"><button>Read more</button></a>
+			<h2>Tableau 期中小组作品</h2>
+			<p class="author">By Odile deray</p>
+			<p>
+				<span>Febuary 7, 2017</span>
+				<span class="comment">0 comments</span>
+			</p>
+		</article>
+		<article>
+			<a onclick="window.location.href='term_project_css.html'"><button>Read more</button></a>
+			<h2>Github学习</h2>
+			<p class="author">By Odile deray</p>
+			<p>
+				<span>Febuary 7, 2017</span>
+				<span class="comment">0 comments</span>
+			</p>
+		</article>
+    </div>
+  </div>
+</div>
+</br></br>
+		<div><center>
+		<input type="button" value="上一页" onclick="up()"/>
+
+		<input type="button" value="下一页" onclick="down()"/>
+		</center></div>
+	<footer>
+		<p>
+			<a href="#"><i class="fa fa-facebook-official" aria-hidden="true">
+			</i></a>
+			<a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+			<a href="#"><i class="fa fa-codepen" aria-hidden="true"></i></a>
+			<a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+		</p>
+		<p>foo is a footer ! - MIT Licenced 2017</p>
+	</footer>	
+</body>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js'></script>
+
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>
