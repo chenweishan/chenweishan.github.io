@@ -1,4 +1,4 @@
 # Footer navigation links
 
-- title: 在更遼闊的（全球資訊網）世界更感覺自在
+- title: （要改）这里在_data文件夹的foot.yml里面修改。notepad+打开，当你打开文件看到这一行的时候，把下面的链接改为自己的github网页
   url: https://hanteng.github.io
