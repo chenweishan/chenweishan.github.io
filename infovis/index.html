@@ -1,5 +1,19 @@
 ---
-layout: default
-title:  "可视化作品介绍"
-categories: portfolio
+layout: archive
+title: "信息可视化作品"
+date: 2017-12-10
+modified:
+excerpt: "信息可视化小试牛刀"
+tags: []
+image: 
+  feature: 
+  teaser:
 ---
+
+在此展示关于信息可视化课程相关的作品
+
+<div class="tiles">
+{% for post in site.categories.SDG %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles 把所有categories 有 SDG 的列出来-->
