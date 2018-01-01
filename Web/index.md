@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "可持续发展目标"
-date: 2017-12-1T10:44:45-16:28
+title: "网页设计作品展示"
+date: 2017-12-1T10:36:45-16:25
 modified:
 tags: []
 image: 
-  feature: design.jpg
-  teaser:design.jpg
+  feature: 
+  teaser:
 ---
 
-在此展示关于网页设计课程相关的作品
+在此展示可持续发展目标内容简绍及思考
 
 <div class="tiles">
 {% for post in site.categories.SDG %}
