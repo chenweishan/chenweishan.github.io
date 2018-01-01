@@ -12,7 +12,7 @@ image:
 在此展示网页设计作品
 
 <div class="tiles">
-{% for post in site.categories.SDG %}
+{% for post in site.categories.Web %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 SDG 的列出来-->
+</div><!-- /.tiles 把所有categories 有 Web 的列出来-->
