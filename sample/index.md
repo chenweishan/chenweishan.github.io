@@ -12,3 +12,7 @@ image:
 在此展示作品——关于网页设计和信息可视化作品
 
 
+<div class="tiles">
+{% for post in site.categories.sample %}
+  {% include post-grid.html %}
+{% endfor %}
