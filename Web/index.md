@@ -12,7 +12,7 @@ image:
 在此展示网页设计和信息可视化的读书笔记
 
 <div class="tiles">
-{% for post in site.categories.note %}
+{% for post in site.categories.Web %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 note 的列出来-->
+</div><!-- /.tiles 把所有categories 有 Web 的列出来-->
