@@ -5,8 +5,8 @@ date: 2017-12-1T10:36:45-16:25
 modified:
 tags: []
 image: 
-  feature:design.jpg
-  teaser:design.jpg
+  feature: design.jpg
+  teaser: design.jpg
 ---
 
 在此展示网页设计作品
