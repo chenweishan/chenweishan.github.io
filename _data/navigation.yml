@@ -1,17 +1,17 @@
 # Site navigation links
 
-- title: 网页设计(Web)作品集
-  url: /Web/ 
+- title: 读书笔记
+  url: /note/ 
   excerpt: "关于网页设计课程做成的一些作品"
   image: Github.gif
   
 
-- title: 信息可视化(Tableau)作品集
-  url: /Tableau/ 
+- title: 作品集
+  url: /sample/ 
   excerpt: "关于网页设计课程做成的一些作品"
   image: earth.gif
   
 - title: 关于我
-  url: /Tableau/ 
+  url: /me/ 
   excerpt: "关于我"
   image: About.gif

@@ -2,7 +2,7 @@
 layout: article
 title:  "jekyll和github搭建个人博客"
 date:   2017-12-15 08:45:50 +0800
-categories: notes_tech Web
+categories: notes_tech note
 image:
   teaser: jekyll.jpg
   feature: jekyll.jpg
