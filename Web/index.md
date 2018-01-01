@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "网页设计作品"
-date: 2017-12-20
+title: "可持续发展目标"
+date: 2017-12-1T10:44:45-16:28
 modified:
-excerpt: "网页设计小试牛刀"
 tags: []
 image: 
-  feature: 
-  teaser:
+  feature: design.jpg
+  teaser:design.jpg
 ---
 
-在此展示关于信息可视化课程相关的作品
+在此展示关于网页设计课程相关的作品
