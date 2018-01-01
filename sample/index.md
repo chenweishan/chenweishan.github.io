@@ -11,11 +11,6 @@ image:
 
 在此展示作品——关于网页设计和信息可视化作品
 
-<ul class="posts">
-    {% for post in site.categories.blog %}
-    <li><span>{{ post.date | date: "%Y-%m-%d" }}</span> &raquo; <a href="{{"https://www.zhihu.com/question/20223939"}}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
 
 <div class="tiles">
 {% for post in site.categories.sample %}
