@@ -5,11 +5,11 @@ date: 2017-12-1T10:36:45-16:25
 modified:
 tags: []
 image: 
-  feature: 
-  teaser:
+  feature:design.jpg
+  teaser:design.jpg
 ---
 
-在此展示可持续发展目标内容简绍及思考
+在此展示网页设计作品
 
 <div class="tiles">
 {% for post in site.categories.SDG %}
