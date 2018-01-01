@@ -15,4 +15,3 @@ image:
 {% for post in site.categories.Web %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 Web 的列出来-->
