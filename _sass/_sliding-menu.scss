@@ -125,7 +125,7 @@
   .menu-item {
     a {
       display: block;
-      color: $white;
+      color: rgb(163, 113, 240);
       text-decoration: none;
     }
     .teaser {
@@ -163,8 +163,8 @@
         margin-left: 170px;
         @include font-size(16,no);
       }
-	  .title:hover,excerpt:hover,teaser:hover{
-		  color:$blue;
+	  .title:hover,.excerpt:hover,.teaser:hover{
+		  color: $blue;
     }
   }
   .sub-menu-item > li a {
