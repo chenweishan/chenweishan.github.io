@@ -5,7 +5,7 @@ date:   2017-12-15 08:45:50 +0800
 categories: notes_tech note
 image:
   teaser: jekyll.jpg
-  feature: jekyll.jpg
+  feature:
 ---
 这篇文章介绍了如何安装jekyll来搭建个人博客，希望对大家有所帮助
 {% include toc.html %}
