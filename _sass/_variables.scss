@@ -31,12 +31,12 @@ $body-color                  	: #ebebeb;
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: $pink ;
+$base-color                  	: $bwhite ;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $pink;
+$primary-color               	: $bwhite;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -82,11 +82,11 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	 : $pink;
-$sliding-menu-background 		   : $pink;
+$sliding-menu-border-color	 	 : $bwhite;
+$sliding-menu-background 		   : $bwhite;
 $sliding-menu-color 	 		     : #595959;
 $sliding-menu-background-hover : $black;
-$sliding-menu-color-hover	 	   : $pink;
+$sliding-menu-color-hover	 	   : $bwhite;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	     : 30px;
 $transition						         : 0.3s; // increase this to see the transformations in slow-motion
