@@ -12,8 +12,8 @@ image:
 
 这篇文章介绍了如何安装jekyll来搭建个人博客，希望对大家有所帮助
 
-## jekyll+Github搭建个人博客
-### 起因
+### jekyll+Github搭建个人博客
+## 起因
 最近在着手于网页设计与制作的期末专题——用网站搭建个人博客。
 由于申请个人的域名是需要消耗金钱，而且我发现了可以在github上自建博客。经过一段研究之后，发现可以在期中使用各种标签或者是脚本，这个这个笔记就是介绍和总结了如何搭建的方法，若有出现什么错误或者是疏漏，欢迎来指教。
 ### jekyll
@@ -21,7 +21,7 @@ image:
 jekyll是一个纯前端的框架，无需使用数据库，即是不用涉及到后端，就可以灵活的生成动态的html页面。Githbu原生支持jekyll,不需要在本地bulid，直接把jekyll项目push到github,就可以自动的生成html。
 ![image](https://upload-images.jianshu.io/upload_images/2949750-927907b6e1de330f.png?imageMogr2/auto-orient/)
 
-### 搭建步骤
+## 搭建步骤
 * #### 第一步 创建一个代码库
 必须创建一个特殊的代码仓库，名字必须是xxx.github.io，xxx是你的github昵称。
 
