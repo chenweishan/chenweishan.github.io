@@ -37,7 +37,7 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $pink;
+    background: rgba(30,146,175,0.5);
   }
   transition: $sliding-menu-animation;
   &.slide {
@@ -142,7 +142,7 @@
     }
     a:hover .teaser {
       opacity: 1;
-	  border:3px solid $white;
+	  border:3px solid $pink;
     }
     .title {
       display: block;
@@ -166,7 +166,7 @@
     }
   }
   .title:hover,.excerpt:hover,.teaser:hover{
-    color:$white;
+    color:$pink;
   }
   .menu-item .home a {
     @include font-size(32);
