@@ -87,7 +87,7 @@
     @include media($large) {
       margin-right: 20%;
     }
-    color: $white;
+    color: #pink;
     @include font-size(14);
     @include media($small) {
       @include font-size(16);
