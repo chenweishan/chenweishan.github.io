@@ -73,7 +73,7 @@
 			}
 			&:after {
 				width: 0;
-				background-color: $pink;
+				background-color: $white;
 			}
 			&:active:after,
 			&:hover:after {
@@ -81,7 +81,7 @@
 			}
 			&:hover {
 				color: $pink;
-				background-color:rgba(214, 170, 154,0.5);
+				background-color:$pink;
 			}
 		}
 	}
