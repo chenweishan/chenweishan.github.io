@@ -4,7 +4,7 @@ title:  "Tableua技巧：利用Tableua制作地图"
 date:   2017-1-3 21:33:50 +0800
 categories: notes_tech posts
 image:
-  teaser: photo.jpg
+  teaser: tableua2.jpg
   feature: 
 ---
 Tableua技巧之制作可视化精美地图
