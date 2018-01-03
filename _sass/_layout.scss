@@ -64,8 +64,8 @@
 				position: absolute;
 				top: 0;
 				left: 0;
-				height: 2px;
-				@include transition(width 0.3s);
+				height: 3px;
+				@include transition(width 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55));
 			}
 			&:before {
 				width: 100%;
@@ -73,7 +73,7 @@
 			}
 			&:after {
 				width: 0;
-				background: $pink;
+				background-color: $pink;
 			}
 			&:active:after,
 			&:hover:after {
@@ -81,6 +81,7 @@
 			}
 			&:hover {
 				color: $pink;
+				background-color:rgba(214, 170, 154,0.5);
 			}
 		}
 	}
