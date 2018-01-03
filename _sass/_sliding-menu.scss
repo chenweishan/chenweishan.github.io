@@ -142,7 +142,7 @@
     }
     a:hover .teaser {
       opacity: 1;
-	  border:3px solid $pink;
+	  border:3px solid $white;
     }
     .title {
       display: block;
@@ -166,7 +166,7 @@
     }
   }
   .title:hover,.excerpt:hover,.teaser:hover{
-    color:$pink;
+    color:$white;
   }
   .menu-item .home a {
     @include font-size(32);
