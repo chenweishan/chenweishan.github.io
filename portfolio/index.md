@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "作品集"
+title: "Web作品集"
 date: 2017-12-1T10:36:45-16:25
 modified:
 tags: []
