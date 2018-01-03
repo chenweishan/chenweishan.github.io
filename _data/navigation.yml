@@ -1,17 +1,26 @@
 # Site navigation links
 
-- title: 读书笔记
-  url: /note/ 
-  excerpt: "关于网页设计课程做成的一些作品"
+- title: Web读书笔记
+  url: /Web/ 
+  excerpt: "关于Web和信息可视化做的一些笔记"
   image: Github.gif
-  
+ 
+- title: 信息可视化读书笔记
+  url: /posts/ 
+  excerpt: "关于Web和信息可视化做的一些笔记"
+  image: Github.gif 
 
-- title: 作品集
-  url: /sample/ 
-  excerpt: "关于网页设计课程做成的一些作品"
+- title: 信息可视化作品集
+  url: /infovis/ 
+  excerpt: "关于信息可视化课程做成的一些作品"
   image: earth.gif
   
-- title: 关于我
+- title: Web作品集
+  url: /portfolio/ 
+  excerpt: "关于网页设计和制作课程做成的一些作品"
+  image: About.gif
+  
+- title: 联系我
   url: /me/ 
-  excerpt: "关于我"
+  excerpt: "关于我的一些联系方式"
   image: About.gif

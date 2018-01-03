@@ -13,6 +13,6 @@ image:
 
 
 <div class="tiles">
-{% for post in site.categories.sample %}
+{% for post in site.categories.infovis %}
   {% include post-grid.html %}
 {% endfor %}
