@@ -16,6 +16,7 @@ pre.highlight {
 	border-top: 0 solid transparent;
 	border-bottom: 0 solid transparent;
 }
+@@ -19,7 +19,6 @@ pre.highlight {
 .linenodiv {
   @include font-size(16);
 }
@@ -23,6 +24,7 @@ pre.highlight {
 .highlight {
 	overflow-x: auto;
 	@include font-size(16);
+@@ -31,8 +30,11 @@ pre.highlight {
 	border: 1px solid darken($body-color, 5);
 	border-radius: $border-radius;
 	pre {
@@ -31,8 +33,11 @@ pre.highlight {
 		padding: 1em;
 	}
 	&:hover {
-		border: 1px solid $form-border-color-hover;
+		border: 3px solid $form-border-color-hover;
+		background-color: $black;
+		color: $white;
 	}
+	background-color: $white;
 }
 
 .highlighttable {
