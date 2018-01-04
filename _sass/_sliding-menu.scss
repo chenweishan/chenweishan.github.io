@@ -164,9 +164,14 @@
         @include font-size(16,no);
       }
     }
+     .title:hover,.excerpt:hover,.teaser:hover{
+        color: $pink;
+    }
   }
-  .title:hover,.excerpt:hover,.teaser:hover{
-    color:$pink;
+  .sub-menu-item > li a {
+    display: block;
+    color: $white;
+    font-style: italic;
   }
   .menu-item .home a {
     @include font-size(32);
