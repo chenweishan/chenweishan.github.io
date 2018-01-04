@@ -1,17 +1,18 @@
 ---
 layout: archive
 title: "网页设计笔记"
-date: 2017-12-1T10:36:45-16:25
+date: 2018-1-1T14:25:45-04:00
 modified:
+excerpt: "( ´·ᴗ·` )"
 tags: []
 image: 
   feature: web_reading_notes.gif
-  teaser: web_reading_notes.gif
+  teaser:
 ---
 
-在此展示网页设计和信息可视化的读书笔记
 
 <div class="tiles">
-{% for post in site.categories.posts/rwd/ %}
+{% for post in site.categories.rwd %}
   {% include post-grid.html %}
 {% endfor %}
+</div><!-- /.tiles 把所有categories 有 rwd 的列出来-->
