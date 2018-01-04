@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Web读书笔记"
+title: "网页设计笔记"
 date: 2017-12-1T10:36:45-16:25
 modified:
 tags: []
 image: 
-  feature: Github.gif
-  teaser: Github.gif
+  feature: web_reading_notes.gif
+  teaser: web_reading_notes.gif
 ---
 
 在此展示网页设计和信息可视化的读书笔记
