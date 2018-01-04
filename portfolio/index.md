@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Web作品集"
-date: 2017-12-1T10:36:45-16:25
+title: "网页设计作品集"
+date: 2018-1-1T14:25:45-04:00
 modified:
+excerpt: "(๑•ᴗ•๑)"
 tags: []
 image: 
   feature: web_sample_reels.gif
-  teaser: web_sample_reels.gif
+  teaser:web_sample_reels
 ---
 
 在此展示作品——关于网页设计和信息可视化作品
