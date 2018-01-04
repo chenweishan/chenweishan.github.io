@@ -1,11 +1,11 @@
 # Site navigation links
 
-- title: Web读书笔记
+- title: 网页设计笔记
   url: /Web/ 
   excerpt: "关于Web和信息可视化做的一些笔记"
   image: web_reading_notes.gif
  
-- title: 信息可视化读书笔记
+- title: 信息可视化笔记
   url: /posts/ 
   excerpt: "关于Web和信息可视化做的一些笔记"
   image: Information_visualization_reading_notes.gif 
@@ -15,7 +15,7 @@
   excerpt: "关于信息可视化课程做成的一些作品"
   image: Information_visualization_web_sample_reels.gif
   
-- title: Web作品集
+- title: 网页设计作品集
   url: /portfolio/ 
   excerpt: "关于网页设计和制作课程做成的一些作品"
   image: web_sample_reels.gif
