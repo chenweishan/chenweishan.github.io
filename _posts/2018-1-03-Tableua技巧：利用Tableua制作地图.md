@@ -2,7 +2,7 @@
 layout: article
 title:  "Tableua技巧：利用Tableua制作地图"
 date:   2018-1-03 21:33:50 +0800
-categories: infovis visualization
+categories: posts/infovis
 image:
   teaser: photo.jpg
   feature: 
