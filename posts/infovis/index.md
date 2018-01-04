@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "信息可视化读书笔记"
-date: 2017-12-1T10:36:45-16:25
+title: "信息可视化笔记"
+date: 2018-1-1T14:25:45-04:00
 modified:
+excerpt: ""
 tags: []
 image: 
   feature: Information_visualization_reading_notes.gif
-  teaser: Information_visualization_reading_notes.gif
+  teaser:
 ---
 
 在此展示网页设计和信息可视化的读书笔记
