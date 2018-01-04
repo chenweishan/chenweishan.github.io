@@ -6,7 +6,7 @@ modified:
 excerpt: "分为Web笔记和信息可视化笔记"
 tags: []
 image: 
-  feature: notes.gif
+  feature: web_reading_notes.gif
   teaser:
 ---
 
