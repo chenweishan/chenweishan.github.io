@@ -2,7 +2,7 @@
 layout: article
 title:  "Tableau入门——了解Tableau界面操作"
 date:   2017-12-01 14:30:41 +0800
-categories: posts infovis
+categories: visualization 
 image:
   teaser: tableua1.jpg
   feature:
