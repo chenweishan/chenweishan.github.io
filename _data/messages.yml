@@ -49,5 +49,6 @@ locales:
     updated: "更新日期："
     share: "分享"
   zh_TW:
-    <<: *DEFAULT_ZH     # use German translation for de_ZH
-
+    <<: *DEFAULT_ZH     # use Chinese translation for zh_TW
+  zh_CN:
+    <<: *DEFAULT_ZH     # use Chinese translation for zh_CN
