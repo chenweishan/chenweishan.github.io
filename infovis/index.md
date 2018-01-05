@@ -22,6 +22,6 @@ image:
 
 
 <div class="tiles">
-{% for post in site.categories.infovis %}
+{% for post in site.categories.infovis%}
   {% include post-grid.html %}
 {% endfor %}
