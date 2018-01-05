@@ -6,7 +6,7 @@ modified:
 excerpt: ""
 tags: []
 image: 
-  feature: Information_visualization_web_sample_reels.gif
+  feature:
   teaser:
 ---
 
