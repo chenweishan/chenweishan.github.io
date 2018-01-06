@@ -7,7 +7,6 @@ image:
   teaser: jekyll.jpg
   feature:
 ---
-这篇文章介绍了如何安装jekyll来搭建个人博客，希望对大家有所帮助
 {% include toc.html %}
 
 这篇文章介绍了如何安装jekyll来搭建个人博客，希望对大家有所帮助
