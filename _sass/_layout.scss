@@ -364,6 +364,7 @@
   /* Copyright text */
 	.copyright {
 		@include font-size(12);
+		color: lighten($black,60);
 		a {
 			text-decoration: none;
 		}
