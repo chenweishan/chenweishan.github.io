@@ -3,10 +3,10 @@ layout: archive
 title: "网页设计作品集"
 date: 2018-1-1T14:25:45-04:00
 modified:
-excerpt: "(๑•ᴗ•๑)"
+excerpt: ""
 tags: []
 image: 
-  feature: contact me.gif
+  feature: web_sample_reels.gif
   teaser:
 ---
 
