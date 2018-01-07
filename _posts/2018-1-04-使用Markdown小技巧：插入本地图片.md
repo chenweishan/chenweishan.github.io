@@ -4,7 +4,7 @@ title:  "使用Markdown小技巧：插入本地图片"
 date:   2018-1-04 20:17:50 +0800
 categories: post_infovis
 image:
-  teaser: tableua4.jpg
+  teaser: tableua3.jpg
   feature: 
 ---
 使用Markdown小技巧：插入本地图片
