@@ -7,7 +7,7 @@ image:
   teaser: tableua3.jpg
   feature: 
 ---
-使用Markdown小技巧：插入本地图片
+这篇文章简要的介绍了关于Markdown插入本地图片的小技巧，方便大家在建立个人博客时候运用
 {% include toc.html %}
 
 

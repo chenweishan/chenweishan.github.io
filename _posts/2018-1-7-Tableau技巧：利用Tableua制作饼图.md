@@ -7,7 +7,7 @@ image:
   teaser: tableua6.jpg
   feature: 
 ---
-Tableua技巧之制作可视化精美饼图
+这篇文章基本介绍了使用Tableua制作圆饼图的小技巧和注意点
 {% include toc.html %}
 
 

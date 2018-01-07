@@ -7,7 +7,7 @@ image:
   teaser: tableua1.jpg
   feature:
 ---
-Tableau界面初步介绍
+这篇文章是关于Tableau界面初步介绍
 {% include toc.html %}
 
 

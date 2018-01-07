@@ -7,7 +7,7 @@ image:
   teaser: tableua2.jpg
   feature: 
 ---
-Tableua技巧之制作可视化精美地图
+这篇文章介绍了使用Tableua制作地图的详细技巧，帮助您制作精美可视化地图
 {% include toc.html %}
 
 
