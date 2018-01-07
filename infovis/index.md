@@ -10,7 +10,7 @@ image:
   teaser:
 ---
 
-在此展示作品——关于网页设计和信息可视化作品
+在此展示作品——关于信息可视化作品
 <div class='tableauPlaceholder' id='viz1515257621274' style='position: relative'>
 	<noscript><a href='#'><img alt='故事 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;S2&#47;S2HYFTKYT&#47;1_rss.png' style='border: none' /></a>
 	</noscript>
